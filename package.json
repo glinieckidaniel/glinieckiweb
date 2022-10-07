@@ -1,0 +1,8 @@
+{
+    "name": "gliniecki",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "daniel.gliniecki",
+    "contributors": [],
+    "dependencies": {}
+}
